@@ -233,5 +233,6 @@
     _scoreLabel.string = [NSString stringWithFormat:@"%d", points];
     return TRUE;
 }
+}
 
 @end
