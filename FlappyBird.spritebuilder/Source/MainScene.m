@@ -216,7 +216,8 @@
         }
 
     }
-    
+}
+
     NSMutableArray *offScreenObstacles = nil;
     
     for (CCNode *obstacle in _obstacles) {
